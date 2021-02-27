@@ -10,26 +10,26 @@
 
 
 ## verileri çekme halledildi
-<img src="img/1.png"/>
+img/1.png
 
 
 
 ## dataframe oluşturma başarılı, geriye sadece tahmin algoritmaları kaldı
-<img src='img/2.png'/>
+img/2.png
 
 
 
 
 ## programın terminal ekranında sahip olacağı arayüz
-<img src="img/3.png"/>
+img/3.png
 
 
 
 # data train etme ve pkl dosyası olarak atama işlemi tamamlandı
-<img src="img/4.png"/>
+img/4.png
 
 
 
 # verilerin grafiksel gösterimi
-<img src="img/5.png"/>
-<img src="img/Figure_1.png"/>
+img/5.png
+img/Figure_1.png
